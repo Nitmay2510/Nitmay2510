@@ -1,15 +1,23 @@
 
 <div align="center">
 
-# Hey, I'm Nitmay Jain! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:3010A0,100:00D4FF&height=190&section=header&text=NITMAY%20JAIN&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Development%20%7C%20Technology&descAlignY=60&descSize=17" width="100%" />
 
-### 🔐 Cybersecurity Enthusiast | 💻 Integrated MCA Student | 🌐 Tech Explorer
+<a href="https://github.com/Nitmay2510">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Integrated+MCA+Student+%F0%9F%8E%93;Exploring+Linux+%7C+Networking+%7C+IoT;Learning+by+Building+%F0%9F%9A%80" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Nitmay2510-181717?style=for-the-badge&logo=github)](https://github.com/Nitmay2510)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jainnitmay2510)
-[![Profile Views](https://komarev.com/ghpvc/?username=Nitmay2510&style=for-the-badge&color=blue)](https://github.com/Nitmay2510)
+<br/>
 
-**"Learn. Build. Secure. Repeat." 🚀**
+<a href="https://github.com/Nitmay2510">
+<img src="https://img.shields.io/badge/GitHub-Nitmay2510-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/jainnitmay2510">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Nitmay2510&style=for-the-badge&color=blueviolet" />
+
+**Learn. Build. Secure. Repeat.**
 
 </div>
 
@@ -17,108 +25,122 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **Nitmay Jain**, an Integrated MCA student at **IIPS, DAVV Indore, India**.
+Hello! I'm **Nitmay Jain**, an Integrated MCA student at **IIPS, Devi Ahilya Vishwavidyalaya (DAVV), Indore, India**.
 
-I'm passionate about technology, cybersecurity, ethical hacking, networking, and exploring how things work behind the scenes.
+I'm passionate about understanding technology beyond the surface — exploring how systems communicate, how applications work, and how digital environments can be secured.
 
-Currently, I'm focused on developing my technical skills, building practical projects, and growing as a cybersecurity professional.
+My journey revolves around **Cybersecurity, Ethical Hacking, Networking, Linux, Programming, and Hardware/IoT**.
 
-- 🔐 Exploring Cybersecurity & Ethical Hacking.
-- 🌐 Learning Computer Networking and Network Security.
-- 🐧 Working with Linux and Kali Linux.
-- 💻 Practising C, C++, Python and SQL.
+- 🔐 Exploring Cybersecurity and Ethical Hacking.
+- 🌐 Building fundamentals in Computer Networking.
+- 🐧 Practising Linux and Kali Linux.
+- 💻 Learning C, C++, Python and SQL.
 - 🔧 Exploring Hardware, IoT and Embedded Systems.
-- 🛡️ Volunteer at **Security BSides Indore**.
-- 🎤 Interested in technical events, community building and leadership.
-- 🚀 Believe in learning through hands-on experience.
+- 🛡️ Contributing to the cybersecurity community through Security BSides Indore.
+- 🤝 Interested in open-source, technical communities and collaboration.
+
+> My philosophy: Don't just learn how technology works. Build it, experiment with it, and understand how to secure it.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧰 Technologies & Tools
 
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,mysql" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,mysql&theme=dark" />
 </p>
 
-### Cybersecurity & Operating Systems
+### Operating Systems & Cybersecurity
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,kali,bash" />
+<img src="https://skillicons.dev/icons?i=linux,kali,bash&theme=dark" />
 </p>
 
-### Development & Tools
+### Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,flutter" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,flutter&theme=dark" />
 </p>
 
-### Networking & Hardware
+### Technical Areas
 
-- Computer Networking
-- TCP/IP & OSI Model
-- Network Security
-- IoT & Hardware Projects
-- PCB-based Hardware Experiments
+| Area | Interests |
+|---|---|
+| Cybersecurity | Ethical Hacking, OSINT, Security Fundamentals |
+| Networking | TCP/IP, OSI Model, Network Security |
+| Operating Systems | Linux, Kali Linux, Windows |
+| Programming | C, C++, Python, SQL |
+| Hardware | IoT, PCB, Embedded Systems |
+| Development | Git, GitHub, MySQL, Flutter |
 
 ---
 
-## 🔐 Cybersecurity Interests
+## 🔐 Cybersecurity Journey
 
-My goal is to become a skilled cybersecurity professional.
+I'm continuously developing my understanding of cybersecurity through practical learning and experimentation.
 
-Areas I'm exploring:
+**Areas I'm exploring:**
 
 - Ethical Hacking
 - Network Security
-- Linux Administration
-- OSINT
 - Web Application Security
-- Penetration Testing
+- Open Source Intelligence (OSINT)
+- Linux Administration
+- Penetration Testing Fundamentals
 - Hardware & IoT Security
 - Digital Forensics
 
+I believe cybersecurity is not just about tools — it's about understanding systems, identifying weaknesses, and learning how to protect them.
+
 ---
 
-## 🚀 Projects & Learning
+## 🚀 Projects & Development
 
-I believe the best way to learn technology is by building things.
+I enjoy turning theoretical knowledge into practical implementations.
 
-I'm continuously working on:
+My development interests include:
 
-- 💻 Programming projects using C++, Python and SQL.
-- 🛡️ Cybersecurity labs and practical experiments.
-- 🌐 Networking and Linux-based projects.
-- 🔧 Hardware and IoT experiments.
+- 💻 C/C++ programming and Data Structures.
+- 🐍 Python-based applications and automation.
+- 🗄️ Database-driven applications using MySQL.
+- 🛡️ Cybersecurity experiments and learning labs.
+- 🌐 Networking and Linux projects.
+- 🔌 Hardware and IoT-based projects.
 - 🤖 Exploring AI-powered applications.
 
-Check out my repositories to explore my work!
+**Explore my repositories:**  
+[![Explore Repositories](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/Nitmay2510?tab=repositories)
 
 ---
 
-## 🤝 Community & Volunteering
+## 🏆 Community & Volunteering
 
-### 🛡️ Security BSides Indore
+### Security BSides Indore
 
-Proud to be a volunteer with the Security BSides Indore community.
+Proud to contribute to the cybersecurity community as a volunteer at **Security BSides Indore**.
 
-- Sponsorship and Hunting Squad Volunteer.
+Some of my contributions and experiences:
+
+- Sponsorship and Hunting Squad volunteer.
 - Community outreach and student engagement.
-- Cybersecurity event coordination and promotion.
+- Technical event promotion and coordination.
 - Built and taught a hardware/PCB-style conference badge.
+- Connected with cybersecurity enthusiasts and professionals.
 
-I enjoy connecting with cybersecurity professionals, students and technology communities.
+I strongly believe that communities, collaboration, and knowledge sharing help us grow faster.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nitmay2510&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nitmay2510&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitmay2510&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Nitmay2510&theme=tokyonight&hide_border=true" />
 
@@ -126,38 +148,38 @@ I enjoy connecting with cybersecurity professionals, students and technology com
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Current Focus
 
-- Master Computer Networking.
-- Strengthen C++ and Python programming.
-- Develop practical cybersecurity skills.
-- Explore Ethical Hacking and Penetration Testing.
-- Build innovative hardware and IoT projects.
-- Contribute to Open Source.
-- Become a professional Cybersecurity Expert.
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/Nitmay2510">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/jainnitmay2510">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</p>
+- Strengthening Computer Networking fundamentals.
+- Improving C++ and Python programming.
+- Developing practical cybersecurity skills.
+- Exploring ethical hacking and security labs.
+- Building hardware and IoT projects.
+- Learning through open-source contributions.
+- Growing as a cybersecurity professional.
 
 ---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, cybersecurity enthusiasts, students, and technology communities.
 
 <div align="center">
 
-### 💡 "The more you explore, the more you realize how much there is to learn."
+<a href="https://github.com/Nitmay2510">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+</a>
 
-**Thanks for visiting my profile! ⭐**
+<a href="https://www.linkedin.com/in/jainnitmay2510">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<br/><br/>
+
+**Have an interesting project or idea? Let's collaborate!**
+
+### "Think like a developer. Explore like a hacker. Build like an engineer." 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:3010A0,100:00D4FF&height=110&section=footer" width="100%" />
 
 </div>
